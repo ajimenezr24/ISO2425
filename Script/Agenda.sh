@@ -1,6 +1,6 @@
 #!/bin/bash
-# Script de pruebas
-# Autor: Adrian
+# Entregable 1.Agenda.sh
+# Autor: Adrián Jiménez Rodríguez
 # Fecha: 3-2-2025
 
 clear
